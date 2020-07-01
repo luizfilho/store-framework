@@ -4,7 +4,7 @@
   },
   "rich-text": {
     "props": {
-      " text": "Hello World!",
+      " text": "Hello World !",
       "textPosition": "CENTER"
     }
   }
