@@ -6,7 +6,7 @@
       "flex-layout.row#images"
     ]
   },
-  "flex-layout.row#imgtext": {
+  "flex-layout.row#images": {
     "children": ["info-card#rethink", "flex-layout.col#imagesCol"]
   },
 
