@@ -1,6 +1,10 @@
 {
   "store.home": {
-    "blocks": ["info-card#button-right", "info-card#button-left"]
+    "blocks": [
+      "info-card#button-right",
+      "info-card#button-left",
+      "flex-layout.row#images"
+    ]
   },
   "flex-layout.row#images": {
     "children": ["image#electronics", "image#major-appliance"]
