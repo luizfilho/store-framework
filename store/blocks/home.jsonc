@@ -14,7 +14,7 @@
     "children": ["rich-text#desktop", "image#desktop"]
   },
 
-  "riesponsive-layout.moble#mobile": {
+  "responsive-layout.moble#mobile": {
     "children": ["rich-text#mobile", "image#mobile"]
   },
 
