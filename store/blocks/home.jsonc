@@ -7,14 +7,14 @@
       "shelf",
       "slider-layout#home",
       "responsive-layout.desktop#desktop",
-      "responsive-layout.moble#mobile"
+      "responsive-layout.mobile#mobile"
     ]
   },
   "responsive-layout.desktop#desktop": {
     "children": ["rich-text#desktop", "image#desktop"]
   },
 
-  "responsive-layout.moble#mobile": {
+  "responsive-layout.mobile#mobile": {
     "children": ["rich-text#mobile", "image#mobile"]
   },
 
